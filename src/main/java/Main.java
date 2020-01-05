@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) throws SQLException, ClassNotFoundException {
 
 
-        //jhkjhk
+        //aksanka
         Class.forName("com.mysql.jdbc.Driver");
         String url = "jdbc:mysql://localhost:3306/users";
         String user = "root";
