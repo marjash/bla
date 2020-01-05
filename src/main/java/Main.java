@@ -5,6 +5,7 @@ public class Main {
 
 
         //aksanka
+        //hello
         Class.forName("com.mysql.jdbc.Driver");
         String url = "jdbc:mysql://localhost:3306/users";
         String user = "root";
